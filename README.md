@@ -9,7 +9,7 @@ Nesse desafio foi dado um código que estava todo desalinhado como mostra a imag
 
 O objetivo foi organizar e deixar o layout igual ao feito em aula.
 
-Segue o link do projeto concluído
+Segue abaixo o link com o desafio concluido! 🚀💜
 
 <a href="https://raw.githubusercontent.com/jordanogazalle/desafio01/main/Desafio%20concluido.PNG">Desafio concluido!</a>
 
