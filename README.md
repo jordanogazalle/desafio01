@@ -1,4 +1,6 @@
-# Desafio 01 da aula de Introdução ao HTML e CSS do programa explorer da Rocketseat.
+# Iniciante - Corrigindo bugs (01)
+
+Desafio 01 da aula de Introdução ao HTML e CSS do programa explorer da Rocketseat.
 
 Sobre o desafio:
 
